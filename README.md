@@ -1,7 +1,7 @@
 # QualiproBackend
 
 This project is built with **Symfony 6.4.18** and **PHP 8.1.2**. It provides a RESTful API for managing and fetching data related to musical bands.
-
+This is the link to the sql dump file : https://drive.google.com/file/d/1lOQVPh8mbm3AbdRRDjEfe-yplZqa0utL/view?usp=sharing
 ## Features
 
 - Create, read, update, and delete band data via a RESTful API.
